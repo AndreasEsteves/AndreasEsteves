@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things such as lerning to code and watching sports.
 - 🌱 I’m currently learning to develop apps on Android and iOS using Swift and Kotlin.
 - 💞️ I’m looking to collaborate on interesting and fun projects.
-- 📫 How to reach me ... andreas.esteves77@gmail.com or +46708913800.
+- 📫 How to reach me ... Just send an email to coding@esteves.nu.
 
 <!---
 Kryllo77/Kryllo77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
