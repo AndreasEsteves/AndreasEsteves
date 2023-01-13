@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreasEsteves
 - 👀 I’m interested in many things such as lerning to code and watching sports.
-- 🌱 I’m currently learning to develop apps on Android and iOS using Swift and Kotlin.
+- 🌱 I’m currently learning to develop apps on iOS and Android using Swift and Kotlin.
 - 💞️ I’m looking to collaborate on interesting and fun projects.
 - 📫 How to reach me ... Just send an email to coding@esteves.nu.
 
